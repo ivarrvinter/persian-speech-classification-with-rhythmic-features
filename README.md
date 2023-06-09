@@ -1,4 +1,4 @@
-# Intensity-based Speaker Classification Project
+# Speaker Classification based on Intensity-based Rhythm
 
 This project aims to classify speaker intensity based on various features using a logistic regression model with feature selection and scaling techniques. The goal is to provide a tool for analyzing and predicting speaker intensity levels based on specific input features.
 
